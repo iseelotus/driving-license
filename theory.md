@@ -1,5 +1,22 @@
 # Theory
 
+## Gefahrenlehre
+
+Was kann in Kurven zum Schleudern führen?
+**Zu niedriger oder stark unterschiedlicher Reifendruck**
+**Defekte Stoßdämpfer**
+
+Sie fahren auf einer schmalen Straße. Etwa 20 m vor Ihnen läuft plötzlich ein Kind auf die Fahrbahn. Wann ist ein Zusammenprall trotz Gefahrbremsung unvermeidbar?
+**50 km/h (Anhalteweg über 20 m)**
+
+Die Anzeige für das Elektronische Stabilitätsprogramm (ESP) hat mehrfach geleuchtet. Wie verhalten Sie sich in dieser Situation richtig?
+**Ich verringere meine Geschwindigkeit, da sie zu hoch ist (Durch die glatte Fahrbahn und die für die vorliegenden Straßenverhältnisse offensichtlich zu hohe Geschwindigkeit in den Kurven, verlieren die Räder an Bodenhaftung und das Auto könnte ins Schleudern geraten. Du musst also deine Geschwindigkeit verringern.)**
+
+Was erleichtert das Fahren im Kolonnenverkehr?
+**Das Beobachten der Kolonne durch die Scheiben der Vorausfahrenden**
+**Leicht versetztes Fahren im eigenen Fahrstreifen**
+
+
 ## Verhalten im Straßenverkehr
 
 Für welche Kraftfahrzeuge gilt innerorts die freie Fahrstreifenwahl?
